@@ -1,0 +1,7 @@
+# This is Phatcraft Store .gitignore
+
+# Enviroment variables file
+.env
+
+# Composer
+vendor
